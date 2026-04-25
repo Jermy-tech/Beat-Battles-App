@@ -28,11 +28,24 @@ Install the latest version instantly with one click:
 
 ## ⚠️ Disclaimer
 
-This is an **unofficial community-made desktop application** and is **not affiliated with or endorsed by the official Beat Battles developers or platform**.
+This is an **unofficial, community-made desktop application** and is **not affiliated with or endorsed by the official Beat Battles developers or platform**.
 
 All trademarks, names, and assets belong to their respective owners.
 
-This project is provided for educational and convenience purposes only.
-https://www.virustotal.com/gui/file/ede5c3042b256f6c5d405ccae3eca05501f75c76063376848494e5ff12ff5c9c?nocache=1 (App VirusTotal 3/70)
-https://www.virustotal.com/gui/file/bb6117cb6078e5dd341afe7d04acff0057df8b1cd308d4ccdaee268ced91e98b?nocache=1 (Launcher VirusTotal 5/71)
-https://www.virustotal.com/gui/file/d359c9a4a9928d904c251f5b01b3bc79065e303e41718fee1a24bb214d940921?nocache=1 (Installer VirusTotal 1/69)
+This project is provided strictly for educational and convenience purposes only.
+
+---
+
+## 🛡️ VirusTotal Reports
+
+- **App Scan:**  
+  https://www.virustotal.com/gui/file/ede5c3042b256f6c5d405ccae3eca05501f75c76063376848494e5ff12ff5c9c?nocache=1  
+  *3 / 70 detections*
+
+- **Launcher Scan:**  
+  https://www.virustotal.com/gui/file/bb6117cb6078e5dd341afe7d04acff0057df8b1cd308d4ccdaee268ced91e98b?nocache=1  
+  *5 / 71 detections*
+
+- **Installer Scan:**  
+  https://www.virustotal.com/gui/file/d359c9a4a9928d904c251f5b01b3bc79065e303e41718fee1a24bb214d940921?nocache=1  
+  *1 / 69 detections*
