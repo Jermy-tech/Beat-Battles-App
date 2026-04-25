@@ -2,9 +2,7 @@
 
 ## 🎧 What is Beat Battles?
 
-Beat Battles is a competitive music experience where players go head-to-head by creating original beats and then voting for the best one.
-
-Every match is about creativity, rhythm, and style — where the community decides the winner. Build your sound, compete in ranked battles, and climb the leaderboard.
+Beat Battles is a competitive music experience where players go head-to-head by creating original beats and then voting for the best one. It is often referred to as FL Studio Ranked for that reason.
 
 ---
 
